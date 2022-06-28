@@ -1,1 +1,1 @@
-alert('Hello,Fukushima!');
+alert('Hello, Fukushima!');
